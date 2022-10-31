@@ -15,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <h1>+92 340 5966112 </h1>
+  <h4>muhammadfaizanjanjua109@gmail.com</h4>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
