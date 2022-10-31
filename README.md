@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13085
-Fork on GitHub
-3396
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate full Stack Developer from Pakistan</h3>
 
@@ -31,8 +16,8 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" alt='whatsapp' /><p> +92 340 5966112</p>
-    <img src="[https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)"  alt='gmail'/><p> muhammadfaizanjanjua109@gmail.com</p>
+  <img width="40" height="40" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" alt='whatsapp' /><p> +92 340 5966112</p>
+    <img width="40" height="40" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)"  alt='gmail'/><p> muhammadfaizanjanjua109@gmail.com</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,27 +29,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanjanjua109&" alt="muhammadfaizanjanjua109" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
