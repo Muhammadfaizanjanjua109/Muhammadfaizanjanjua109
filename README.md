@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate full Stack Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **MERN , React Native , 3.js**
+- 🌱 I’m currently learning **MERN
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
